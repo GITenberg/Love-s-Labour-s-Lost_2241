@@ -1,0 +1,36 @@
+_repo: Love-s-Labour-s-Lost_2241
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Love's Labour's Lost is one of William Shakespeare's early comedies,
+  believed to have been written in the mid-1590s, and first published in 1598. The
+  play opens with the King of Navarre and three noble companions, Berowne, Dumaine,
+  and Longaville, taking an oath to devote themselves to three years of study, promising
+  not to give in to the company of women? Berowne somewhat more hesitantly than the
+  others. Berowne reminds the king that the princess and her three ladies are coming
+  to the kingdom and it was suicidal for the King to agree to this law. The King denies
+  what Berowne says, insisting.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Princesses -- Drama'
+- !lcsh 'Courts and courtiers -- Drama'
+- !lcsh 'Navarre (Kingdom) -- Drama'
+- !lcsh 'Comedies'
+title: Love's Labour's Lost
+url: http://www.gutenberg.org/ebooks/2241
